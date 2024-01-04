@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tahera Firdose</title>
+    <link>https://taherafirdose.github.io/tahera_Portfolio/en/</link>
+    <description>Recent content on Tahera Firdose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2023 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://taherafirdose.github.io/tahera_Portfolio/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://taherafirdose.github.io/tahera_Portfolio/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/tahera_Portfolio/en/contact/</guid>
+      <description>Follow me on these social media platforms.&#xA;Platform URL LinkedIn: https://www.linkedin.com/in/tahera-firdose/ Medium: https://medium.com/@tahera-firdose GitHub: https://github.com/taherafirdose </description>
+    </item>
+    <item>
+      <title>Tahera Firdose</title>
+      <link>https://taherafirdose.github.io/tahera_Portfolio/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/tahera_Portfolio/en/about/</guid>
+      <description>Hi, I&amp;rsquo;m Tahera, a passionate data explorer with a Postgraduate Diploma in Artificial Intelligence. My journey blends the art of storytelling with the intricacies of AI and data science, a skill honed through my role as a technical writer on Medium, where I transform complex concepts into engaging stories. Driven by insatiable curiosity and continuous learning, I excel in turning data into a canvas of creativity and logic. Eager to apply my skills in challenging roles, I am ready to contribute to meaningful data science projects, leveraging my passion for data to create positive, impactful solutions.</description>
+    </item>
+  </channel>
+</rss>
